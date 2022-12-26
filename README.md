@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Alejandro Martínez Rivera, estudiante de ingeniería en sistemas computacionales
 
 <!--
 **AlejandroMtz10/AlejandroMtz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
