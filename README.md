@@ -1,7 +1,7 @@
 ### Hola, bienvenido a mi perfil 👋 
 ### Soy Alejandro Martínez Rivera, estudiante de ingeniería en sistemas computacionales.
 ### Soy de México 
-[![Alejandro Martínez](src/recursos/banderaMexico.png)]
+<img src="./recursos/banderaMexico.png">
 
 <!--
 **AlejandroMtz10/AlejandroMtz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
