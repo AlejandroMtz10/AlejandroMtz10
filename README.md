@@ -1,6 +1,6 @@
 ### Hola, bienvenido a mi perfil 👋 
 <p>
-    Soy Alejandro Martínez Rivera, estudiante de ingeniería en sistemas computacionales, tengo 21 años.⚡
+    Soy Alejandro Martínez Rivera, estudiante de ingeniería en sistemas computacionales, tengo 22 años.⚡
 </p> 
 <img src="./recursos/banderaMexico.png" width="20%" height="20%">
 
