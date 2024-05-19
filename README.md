@@ -12,7 +12,7 @@
 ## Conéctate conmigo 🌐
 
 <div style="display: flex; align-items: center;">
-  <img src="recursos/linkedIn.png" alt="LinkedIn" width="20" style="margin-right: 10px;">
+  <img src="recursos/logo.png" alt="LinkedIn" width="20" style="margin-right: 10px;">
   <a href="https://www.linkedin.com/in/alejandro-martínez-rivera-a35541248/">LinkedIn</a>
 </div>
 
