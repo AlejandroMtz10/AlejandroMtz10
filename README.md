@@ -3,6 +3,7 @@
     Soy Alejandro Martínez Rivera, Ingeniero en sistemas computacionales, tengo 23 años.
     Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva.
 </p> 
+
 ## Estadísticas de GitHub 📊
 
 ![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=compact&hide=css,html&langs_count=10&theme=radical)
