@@ -1,7 +1,11 @@
 ### Hola, bienvenido a mi perfil 👋 
+
 <p>
     Soy Alejandro Martínez Rivera, Ingeniero en sistemas computacionales, tengo 23 años.
-    Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva.
+</p> 
+<p> 
+    Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva,
+    podrás encontrar diversos repositorios en mi perfil, espero y te sirva de ayuda mi código 😄
 </p> 
 
 ## Estadísticas de GitHub 📊
