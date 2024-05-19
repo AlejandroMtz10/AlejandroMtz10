@@ -11,8 +11,8 @@
 
 ## Conéctate conmigo 🌐
 
-- <div><img src= "recursos/linkedin.png"/> <p> </p>[LinkedIn](https://www.linkedin.com/in/alejandro-martínez-rivera-a35541248/)</div>
-- <div><img src= "recursos/ms-outlook.png"/><p> </p> [Correo](mailto:alex10mtz_rivera@outlook.com)</div>
+- <img src= "recursos/linkedin.png"/> <p> </p> [LinkedIn](https://www.linkedin.com/in/alejandro-martínez-rivera-a35541248/)
+- <img src= "recursos/ms-outlook.png"/><p> </p> [Correo](mailto:alex10mtz_rivera@outlook.com)
 
 
 *¡Gracias por visitar mi perfil!*
