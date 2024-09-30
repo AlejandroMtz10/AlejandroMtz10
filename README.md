@@ -20,7 +20,7 @@ Me gusta trabajar en proyectos de desarrollo y participar en concursos de progra
 ## 📊 GitHub Statistics. / Estadísticas de GitHub.
 
 ## 👨‍💻 Languages. / Lenguajes.
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=compact&hide=css,html&langs_count=10&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=default_count=10&theme=radical)
 
 ## 🔥 Activity. / Actividad.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroMtz10&show_icons=true&count_private=true&theme=radical)
