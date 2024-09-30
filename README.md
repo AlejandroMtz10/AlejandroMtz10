@@ -1,45 +1,40 @@
-### Hello, welcome to my profile. / Hola, bienvenido a mi perfil. 👋 
+### 👋 Hello, welcome to my profile! / ¡Hola, bienvenido a mi perfil!
 
-<p>
-    - I am Alejandro Martínez Rivera, I am a 23 year old computer systems engineer.
-    - Soy Alejandro Martínez Rivera, Ingeniero en sistemas computacionales, tengo 23 años.
-</p> 
-<p> 
-    - I like to work on development projects and participate in competitive programming contests, you can find several repositories in my profile, I hope you find my code helpful.
-    - Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva, podrás encontrar diversos repositorios en mi perfil, espero y te sirva de ayuda mi código. 😄
-</p> 
+**Alejandro Martínez Rivera - Computer Systems Engineer / Ingeniero en Sistemas Computacionales**  
+🧑‍💻 I am a 23-year-old passionate about software development and competitive programming.  
+💼 Currently working on various development projects while enhancing my skills through coding competitions.
 
-## Statistics GitHub. / Estadísticas de GitHub. 📊
+---
 
-![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=compact&hide=css,html&langs_count=10&theme=radical)
+**About me. / Sobre mí**  
+🎓 **Name / Nombre:** Alejandro Martínez Rivera.
+💻 **Occupation / Ocupación:** Computer systems engineer / Ingeniero en sistemas computacionales.
+🌍 **Age / Edad:** 23 years old / 23 años. 
+🚀 **Interests / Intereses:** Software development, Competitive programming, Learning new technologies / Desarrollo de software, Programación competitiva, Aprendizaje de nuevas tecnologías.
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroMtz10&show_icons=true&count_private=true&theme=radical)
+I enjoy working on development projects and participating in competitive programming contests. You can find several repositories on my profile, and I hope you find my code helpful. 😄
+Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva. Puedes encontrar diversos repositorios en mi perfil que espero te sean de ayuda. 😄  
 
-## Conéctate conmigo 🌐
+---
 
-<div style="display: flex; align-items: center;">
-  <img src="recursos/logo.png" alt="LinkedIn" width="20" style="margin-right: 10px;">
-  <a href="https://www.linkedin.com/in/alejandro-martínez-rivera-a35541248/">LinkedIn</a>
-</div>
+## 📊 GitHub Statistics. / Estadísticas de GitHub.
 
-<div style="display: flex; align-items: center; margin-top: 10px;">
-  <img src="recursos/ms-outlook.png" alt="Correo outlook" width="20" style="margin-right: 10px;">
-  <a href="mailto:alex10mtz_rivera@outlook.com"> Email / Correo</a>
-</div>
+## 👨‍💻 Languages. / Lenguajes.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=compact&hide=css,html&langs_count=10&theme=radical)
 
-*Thank you for visiting my profile!*
-*¡Gracias por visitar mi perfil!*
-<!--
-**AlejandroMtz10/AlejandroMtz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Activity. / Actividad.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroMtz10&show_icons=true&count_private=true&theme=radical)
 
-Here are some ideas to get you started:
+## 👀 Profile Views / Visitas al perfil
+![Visitas al perfil](https://komarev.com/ghpvc/?username=AlejandroMtz10&style=flat-square&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me. / Conéctate conmigo.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-rivera-a35541248/)  
+[![Email](https://img.shields.io/badge/Email-outlook-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:alex10mtz_rivera@outlook.com)
+
+---
+
+*Thank you for visiting my profile! / ¡Gracias por visitar mi perfil!*
