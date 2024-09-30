@@ -7,10 +7,10 @@
 ---
 
 **About me. / Sobre mí**  
-🎓 **Name / Nombre:** Alejandro Martínez Rivera.
-💻 **Occupation / Ocupación:** Computer systems engineer / Ingeniero en sistemas computacionales.
-🌍 **Age / Edad:** 23 years old / 23 años. 
-🚀 **Interests / Intereses:** Software development, Competitive programming, Learning new technologies / Desarrollo de software, Programación competitiva, Aprendizaje de nuevas tecnologías.
+- 🎓 **Name / Nombre:** Alejandro Martínez Rivera.
+- 💻 **Occupation / Ocupación:** Computer systems engineer / Ingeniero en sistemas computacionales.
+- 🌍 **Age / Edad:** 23 years old / 23 años. 
+- 🚀 **Interests / Intereses:** Software development, Competitive programming, Learning new technologies / Desarrollo de software, Programación competitiva, Aprendizaje de nuevas tecnologías.
 
 I enjoy working on development projects and participating in competitive programming contests. You can find several repositories on my profile, and I hope you find my code helpful. 😄
 Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva. Puedes encontrar diversos repositorios en mi perfil que espero te sean de ayuda. 😄  
@@ -32,8 +32,14 @@ Me gusta trabajar en proyectos de desarrollo y participar en concursos de progra
 
 ## 🌐 Connect with me. / Conéctate conmigo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-rivera-a35541248/)  
+## LinkedIn.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-rivera-a35541248/) 
+
+## Email. / Correo electrónico.
 [![Email](https://img.shields.io/badge/Email-outlook-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:alex10mtz_rivera@outlook.com)
+
+## 🐝 Beecrowd Profile. / Perfil de Beecrowd.
+[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://judge.beecrowd.com/es/profile/802361)
 
 ---
 
