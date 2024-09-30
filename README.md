@@ -1,14 +1,15 @@
-### Hola, bienvenido a mi perfil 👋 
+### Hello, welcome to my profile. / Hola, bienvenido a mi perfil. 👋 
 
 <p>
-    Soy Alejandro Martínez Rivera, Ingeniero en sistemas computacionales, tengo 23 años.
+    - I am Alejandro Martínez Rivera, I am a 23 year old computer systems engineer.
+    - Soy Alejandro Martínez Rivera, Ingeniero en sistemas computacionales, tengo 23 años.
 </p> 
 <p> 
-    Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva,
-    podrás encontrar diversos repositorios en mi perfil, espero y te sirva de ayuda mi código 😄
+    - I like to work on development projects and participate in competitive programming contests, you can find several repositories in my profile, I hope you find my code helpful.
+    - Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva, podrás encontrar diversos repositorios en mi perfil, espero y te sirva de ayuda mi código. 😄
 </p> 
 
-## Estadísticas de GitHub 📊
+## Statistics GitHub. / Estadísticas de GitHub. 📊
 
 ![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=compact&hide=css,html&langs_count=10&theme=radical)
 
@@ -23,10 +24,10 @@
 
 <div style="display: flex; align-items: center; margin-top: 10px;">
   <img src="recursos/ms-outlook.png" alt="Correo outlook" width="20" style="margin-right: 10px;">
-  <a href="mailto:alex10mtz_rivera@outlook.com">Correo</a>
+  <a href="mailto:alex10mtz_rivera@outlook.com"> Email / Correo</a>
 </div>
 
-
+*Thank you for visiting my profile!*
 *¡Gracias por visitar mi perfil!*
 <!--
 **AlejandroMtz10/AlejandroMtz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
