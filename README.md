@@ -1,17 +1,17 @@
 ### 👋 Hello, welcome to my profile! / ¡Hola, bienvenido a mi perfil!
 
 **Alejandro Martínez Rivera - Computer Systems Engineer / Ingeniero en Sistemas Computacionales**  
-- 🧑‍💻 I am a 23-year-old passionate about software development and competitive programming.  
+- 🧑‍💻 I am a 24-year-old passionate about software development and competitive programming.  
 - 💼 Currently working on various development projects while enhancing my skills through coding competitions.
 
-- 🧑‍💻 Soy un joven de 23 años apasionado por el desarrollo de software y la programación competitiva.  
+- 🧑‍💻 Soy un joven de 24 años apasionado por el desarrollo de software y la programación competitiva.  
 - 💼 Actualmente trabajo en varios proyectos de desarrollo mientras mejoro mis habilidades a través de concursos de codificación.
 ---
 
 **About me. / Sobre mí**  
 - 🎓 **Name / Nombre:** Alejandro Martínez Rivera.
 - 💻 **Occupation / Ocupación:** Computer systems engineer / Ingeniero en sistemas computacionales.
-- 🌍 **Age / Edad:** 23 years old / 23 años. 
+- 🌍 **Age / Edad:** 24 years old / 24 años. 
 - 🚀 **Interests / Intereses:** Software development, Competitive programming, Learning new technologies / Desarrollo de software, Programación competitiva, Aprendizaje de nuevas tecnologías.
 
 - I enjoy working on development projects and participating in competitive programming contests. You can find several repositories on my profile, and I hope you find my code helpful. 😄
