@@ -23,12 +23,12 @@
 
 ## 📊 GitHub Statistics. | Estadísticas de GitHub.
 
-<p align="center">
-  <a href="https://github.com/AVS1508">
+<div align="center">
+  <div href="https://github.com/AlejandroMtz10">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroMtz10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+  </div>
+</div>
 
 ##  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>  Technologies that I know. | Tecnologías que conozco.
 <!--tech stack icons-->
