@@ -22,10 +22,10 @@
 ## 📊 GitHub Statistics. / Estadísticas de GitHub.
 
 ## 👨‍💻 Languages. / Lenguajes.
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMtz10&hide=css,html&langs_count=10&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMtz10&hide=css,html&langs_count=10&theme=radical&cache_seconds=1800)
 
 ## 🔥 Activity. / Actividad.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroMtz10&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroMtz10&show_icons=true&theme=radical)
 
 ## 👀 Profile Views / Visitas al perfil
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=AlejandroMtz10&style=flat-square&color=blue)
