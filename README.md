@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alejandro-mart%C3%ADnez-rivera-a35541248/"><img src="https://api.iconify.design/devicon:linkedin.svg" width="50" height="50" alt="LinkedIn"></a>
-  <a href="alex10mtz_rivera@outlook.com"><img src="https://api.iconify.design/vscode-icons:file-type-outlook.svg" width="50" height="50" alt="Outlook"></a>
+  <a href="mailto:alex10mtz_rivera@outlook.com"><img src="https://api.iconify.design/vscode-icons:file-type-outlook.svg" width="50" height="50" alt="Outlook"></a>
 </div>
 
 ---
