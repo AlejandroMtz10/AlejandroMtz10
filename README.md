@@ -34,22 +34,41 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,html,css,tailwind,bootstrap,js,jquery,react,vite,php,laravel,postman,vercel,java,py,cs,unity,kotlin,androidstudio,eclipse,idea,pycharm,sublime,vscode,visualstudio,git,github,docker,md,windows,linux,ubuntu,npm,pnpm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,tailwind,bootstrap,js,jquery,react,vite,php,laravel,postman,vercel,java,py,cs,unity,kotlin,androidstudio,eclipse,idea,pycharm,sublime,vscode,visualstudio,git,github,docker,md,windows,linux,ubuntu,npm,pnpm&perline=14"/>
   </a>
 </p>
 
 ---
 
+## Competitive programming. | Programación competitiva.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://judge.beecrowd.com/es/profile/802361">
+          <img src="https://cdn.brandfetch.io/idZGjlcua6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1765248588919" height="50px" />
+          <br />
+          <b>Beecrowd</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/u/alejandromtz10/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height="50px" />
+          <br />
+          <b>LeetCode</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🌐 Connect with me. | Conéctate conmigo.
 
-## LinkedIn.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-rivera-a35541248/) 
-
-## Email. | Correo electrónico.
-[![Email](https://img.shields.io/badge/Email-outlook-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:alex10mtz_rivera@outlook.com)
-
-## 🐝 Beecrowd Profile. | Perfil de Beecrowd.
-[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://judge.beecrowd.com/es/profile/802361)
+<div align="center">
+  <a href="https://www.linkedin.com/in/alejandro-mart%C3%ADnez-rivera-a35541248/"><img src="https://api.iconify.design/devicon:linkedin.svg" width="50" height="50" alt="LinkedIn"></a>
+  <a href="alex10mtz_rivera@outlook.com"><img src="https://api.iconify.design/vscode-icons:file-type-outlook.svg" width="50" height="50" alt="Outlook"></a>
+</div>
 
 ---
 
