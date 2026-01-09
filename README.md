@@ -46,15 +46,22 @@
   <table>
     <tr>
       <td align="center">
+        <a href="https://icpc.global/ICPCID/L751H0TC4KIA">
+          <img src="./recursos/ICPC International Collegiate Programming Contest Logo.svg" height="70px" />
+          <br />
+          <b>ICPC</b>
+        </a>
+      </td>
+      <td align="center">
         <a href="https://judge.beecrowd.com/es/profile/802361">
-          <img src="https://cdn.brandfetch.io/idZGjlcua6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1765248588919" height="50px" />
+          <img src="https://cdn.brandfetch.io/idZGjlcua6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1765248588919" height="70px" />
           <br />
           <b>Beecrowd</b>
         </a>
       </td>
       <td align="center">
         <a href="https://leetcode.com/u/alejandromtz10/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height="50px" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height="70px" />
           <br />
           <b>LeetCode</b>
         </a>
