@@ -1,4 +1,4 @@
-### 👋 Hello, welcome to my profile! | ¡Hola, bienvenido a mi perfil!
+###  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="20px" /> Hello, welcome to my profile! | ¡Hola, bienvenido a mi perfil!
 
 **Alejandro Martínez Rivera - Computer Systems Engineer | Ingeniero en Sistemas Computacionales**
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -10,18 +10,21 @@
 
 ---
 
-**About me. | Sobre mí**  
+**About me. | Sobre mí**
 - 🎓 **Name | Nombre:** Alejandro Martínez Rivera.
 - 💻 **Occupation | Ocupación:** Software engineer | Ingeniero de software.
 - 🌍 **Age | Edad:** 25 years old | 25 años. 
 - 🚀 **Interests | Intereses:** Software development, Competitive programming, Learning new technologies | Desarrollo de software, Programación competitiva, Aprendizaje de nuevas tecnologías.
-
 - I enjoy working on development projects and participating in competitive programming contests. You can find several repositories on my profile, and I hope you find my code helpful. 😄
-- Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva. Puedes encontrar diversos repositorios en mi perfil que espero te sean de ayuda. 😄  
+- Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva. Puedes encontrar diversos repositorios en mi perfil que espero te sean de ayuda. 😄
+<div align="center">
+   <img height="350" width="500" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</div>
+
 
 ---
 
-## 📊 GitHub Statistics. | Estadísticas de GitHub.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Statistics. | Estadísticas de GitHub.
 
 <div align="center">
   <div href="https://github.com/AlejandroMtz10">
@@ -38,39 +41,17 @@
   </a>
 </p>
 
----
-
 ## Competitive programming. | Programación competitiva.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://icpc.global/ICPCID/L751H0TC4KIA">
-          <img src="./recursos/ICPC International Collegiate Programming Contest Logo.svg" height="70px" />
-          <br />
-          <b>ICPC</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://judge.beecrowd.com/es/profile/802361">
-          <img src="https://cdn.brandfetch.io/idZGjlcua6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1765248588919" height="70px" />
-          <br />
-          <b>Beecrowd</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/u/alejandromtz10/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height="70px" />
-          <br />
-          <b>LeetCode</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://judge.beecrowd.com/es/profile/802361"><img src="https://cdn.brandfetch.io/idZGjlcua6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1765248588919" height="60px" alt="Beecrowd"/></a>
+	<a href="https://leetcode.com/u/alejandromtz10/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://icpc.global/ICPCID/L751H0TC4KIA"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
+</p>
 
-## 🌐 Connect with me. | Conéctate conmigo.
+---
+
+## 🌐 Connect with me. | Conecta conmigo.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alejandro-mart%C3%ADnez-rivera-a35541248/"><img src="https://api.iconify.design/devicon:linkedin.svg" width="50" height="50" alt="LinkedIn"></a>
@@ -78,5 +59,8 @@
 </div>
 
 ---
-
-*Thank you for visiting my profile! | ¡Gracias por visitar mi perfil!*
+<div align="center">
+  <p>
+    Thank you for visiting my profile! | ¡Gracias por visitar mi perfil!
+  </p>
+</div>
