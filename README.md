@@ -28,8 +28,8 @@
 
 <div align="center">
   <div href="https://github.com/AlejandroMtz10">
-    <img width="auto" height="270em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroMtz10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="200em" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=default&langs_count=8&theme=algolia"/>
+    <img width="auto" height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroMtz10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="180em" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=default&langs_count=8&theme=algolia"/>
   </div>
 </div>
 
