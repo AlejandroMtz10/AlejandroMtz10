@@ -35,9 +35,13 @@
 
 ##  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>  Technologies that I know. | Tecnologías que conozco.
 <!--tech stack icons-->
-<div align="center">
+<div align="center" ">
 	<h3>Databases | Bases de datos</h3>
-	<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light&perline=14"/>
+    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" width="50em" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50em" />
+		<img src="https://skillicons.dev/icons?i=mysql&theme=light&perline=14"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="50em" />
+        <img src="https://skillicons.dev/icons?i=sqlite&theme=light&perline=14"/>
 </div>
 <div align="center">
 	<h3>Web Technologies | Tecnologías web</h3>
@@ -49,7 +53,31 @@
 </div>
 <div align="center">
 	<h3>Tools & Others Technologies | Herramientas y Otras Tecnologías</h3>
-	<img src="https://skillicons.dev/icons?i=arduino,postman,vercel,unity,dotnet,haskell,kotlin,androidstudio,eclipse,idea,pycharm,sublime,vscode,visualstudio,git,github,docker,md,bash,windows,linux,ubuntu,npm,pnpm&theme=light&perline=14"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="50em"/> 
+	<img src="https://skillicons.dev/icons?i=dotnet&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=unity&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=arduino&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=postman&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=vercel&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=haskell&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=kotlin&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=androidstudio&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=eclipse&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=idea&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=pycharm&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=sublime&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=vscode&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=visualstudio&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=git&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=github&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=docker&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=md&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=bash&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=windows&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=linux&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=ubuntu&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=npm&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=pnpm&perline=14"/>
 </div>
 
 ## Competitive programming. | Programación competitiva.
