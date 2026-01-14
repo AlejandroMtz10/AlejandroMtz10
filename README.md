@@ -35,11 +35,22 @@
 
 ##  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>  Technologies that I know. | Tecnologías que conozco.
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,html,css,tailwind,bootstrap,js,jquery,react,vite,php,laravel,postman,vercel,java,py,cs,unity,kotlin,androidstudio,eclipse,idea,pycharm,sublime,vscode,visualstudio,git,github,docker,md,windows,linux,ubuntu,npm,pnpm&perline=14"/>
-  </a>
-</p>
+<div align="center">
+	<h3>Databases | Bases de datos</h3>
+	<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light&perline=14"/>
+</div>
+<div align="center">
+	<h3>Web Technologies | Tecnologías web</h3>
+	<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,vite,php,laravel&theme=light&perline=14"/>
+</div>
+<div align="center">
+	<h3>Competitive programming | Programación competitiva</h3>
+	<img src="https://skillicons.dev/icons?i=js,java,py,cs&theme=light&perline=14"/>
+</div>
+<div align="center">
+	<h3>Tools & Others Technologies | Herramientas y Otras Tecnologías</h3>
+	<img src="https://skillicons.dev/icons?i=arduino,postman,vercel,unity,dotnet,haskell,kotlin,androidstudio,eclipse,idea,pycharm,sublime,vscode,visualstudio,git,github,docker,md,bash,windows,linux,ubuntu,npm,pnpm&theme=light&perline=14"/>
+</div>
 
 ## Competitive programming. | Programación competitiva.
 
