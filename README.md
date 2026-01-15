@@ -27,15 +27,17 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Statistics. | Estadísticas de GitHub.
 
 <div align="center">
-  <div href="https://github.com/AlejandroMtz10">
-    <img width="auto" height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroMtz10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="180em" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=default&langs_count=8&theme=algolia"/>
-  </div>
+	<div href="https://github.com/AlejandroMtz10">
+		<img width="auto" height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroMtz10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	</div>
+	<div href="https://github.com/AlejandroMtz10">
+		<img width="610em" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=compact&langs_count=10&theme=algolia"/>
+	</div>
 </div>
 
 ##  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>  Technologies that I know. | Tecnologías que conozco.
 <!--tech stack icons-->
-<div align="center" ">
+<div align="left" ">
 	<h3>Databases | Bases de datos</h3>
     	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" width="50em" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50em" />
@@ -43,20 +45,23 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="50em" />
         <img src="https://skillicons.dev/icons?i=sqlite&theme=light&perline=14"/>
 </div>
-<div align="center">
+<div align="left">
 	<h3>Web Technologies | Tecnologías web</h3>
 	<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,vite,php,laravel&theme=light&perline=14"/>
 </div>
-<div align="center">
+<div align="left">
 	<h3>Competitive programming | Programación competitiva</h3>
-	<img src="https://skillicons.dev/icons?i=js,java,py,cs&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=java,py,js,cs&theme=light&perline=14"/>
 </div>
-<div align="center">
+<div align="left">
 	<h3>Tools & Others Technologies | Herramientas y Otras Tecnologías</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="50em"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" width="50em" />
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/drawio.svg" width="55em" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="50em"/> 
 	<img src="https://skillicons.dev/icons?i=dotnet&theme=light&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=unity&theme=light&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=arduino&perline=14"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/technologiesLogos/json.svg" width="50em"/> 
 	<img src="https://skillicons.dev/icons?i=postman&theme=light&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=vercel&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=haskell&perline=14"/>
@@ -78,6 +83,14 @@
 	<img src="https://skillicons.dev/icons?i=ubuntu&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=npm&theme=light&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=pnpm&perline=14"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/xampp.svg" width="47em" />
+</div>
+<div align="left">
+	<h3>Low-Code & No-Code</h3>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/power-apps.svg" width="50em"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/power-automate.svg" width="50em"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/power-bi.svg" width="50em"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/sharepoint.svg" width="50em"/>
 </div>
 
 ## Competitive programming. | Programación competitiva.
