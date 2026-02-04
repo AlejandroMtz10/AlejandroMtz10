@@ -99,9 +99,10 @@
 ## Competitive programming. | Programación competitiva.
 
 <p align="center">
-  <a href="https://judge.beecrowd.com/es/profile/802361"><img src="https://cdn.brandfetch.io/idZGjlcua6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1765248588919" height="60px" alt="Beecrowd"/></a>
-	<a href="https://leetcode.com/u/alejandromtz10/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://icpc.global/ICPCID/L751H0TC4KIA"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
+	<a href="https://icpc.global/ICPCID/L751H0TC4KIA"><img src="./recursos/ICPC_logo.svg" alt="ICPC Global" width = 60px /></a>  
+  	<a href="https://judge.beecrowd.com/es/profile/802361"><img src="https://cdn.brandfetch.io/idZGjlcua6/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1765248588919" height="60px" alt="Beecrowd"/></a>
+	<a href="https://leetcode.com/u/alejandromtz10/"><img src="./recursos/leetcode_logo.svg" alt="LeetCode"/></a>
+	<a href="https://www.hackerrank.com/profile/alex10mtz_rivera"><img src="./recursos/HackerRank_logo.svg" alt="ICPC Global" width = 60px /></a>     
 </p>
 
 ---
