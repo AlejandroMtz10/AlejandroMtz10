@@ -2,10 +2,10 @@
 
 **Alejandro Martínez Rivera - Computer Systems Engineer | Ingeniero en Sistemas Computacionales**
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-- 🧑‍💻 I am a 24-year-old passionate about software development and competitive programming.  
+- 🧑‍💻 I am a young man passionate about software development and competitive programming.  
 - 💼 Currently working on various development projects while enhancing my skills through coding competitions.
 
-- 🧑‍💻 Soy un joven de 24 años apasionado por el desarrollo de software y la programación competitiva.  
+- 🧑‍💻 Soy un joven apasionado por el desarrollo de software y la programación competitiva.  
 - 💼 Actualmente trabajo en varios proyectos de desarrollo mientras mejoro mis habilidades a través de concursos de codificación.
 
 ---
