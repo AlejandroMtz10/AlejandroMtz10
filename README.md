@@ -50,11 +50,23 @@
 </div>
 <div align="left">
 	<h3>Web Technologies | Tecnologías web</h3>
-	<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,vite,php,laravel&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=html&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=css&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=tailwind&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=bootstrap&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=js&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=jquery&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=react&theme=dark&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=php&theme=dark&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=laravel&theme=dark&perline=14"/>
 </div>
 <div align="left">
 	<h3>Competitive programming | Programación competitiva</h3>
-	<img src="https://skillicons.dev/icons?i=java,py,js,cs&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=java&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=py&theme=dark&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=js&theme=light&perline=14"/>
+	<img src="https://skillicons.dev/icons?i=cs&theme=light&perline=14"/>
 </div>
 <div align="left">
 	<h3>Tools & Others Technologies | Herramientas y Otras Tecnologías</h3>
