@@ -45,6 +45,7 @@
     	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" width="50em" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50em" />
 		<img src="https://skillicons.dev/icons?i=mysql&theme=light&perline=14"/>
+		<img src="https://skillicons.dev/icons?i=postgres&theme=light&perline=14"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="50em" />
         <img src="https://skillicons.dev/icons?i=sqlite&theme=light&perline=14"/>
 </div>
