@@ -1,6 +1,18 @@
-###  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="20px" /> Hello, welcome to my profile! | ¡Hola, bienvenido a mi perfil!
+<div align="center">
+  
+  # <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="35px" /> Hello, welcome to my profile! | ¡Hola, bienvenido a mi perfil! <br>
+  
+  <img src="./recursos/aldev_banner_img.jpg" alt="aldev banner" width="100%"><br><br>
+  
+  # I am Alejandro Martinez | Soy Alejandro Martínez! <br>
+  ## Software engineer | Ingeniero de software <br>
+  ### App Developer and Tech Solutions Provider | Creador de Apps y Soluciones Tecnológicas <br><br>
 
-**Alejandro Martínez Rivera - Computer Systems Engineer | Ingeniero en Sistemas Computacionales**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Martínez_Rivera-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-rivera-a35541248/) &nbsp;
+  [![Email](https://img.shields.io/badge/Email-alex10mtz__rivera%40outlook.com-0078D4?style=flat&logo=microsoft&logoColor=white)](mailto:alex10mtz_rivera@outlook.com) &nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-AlejandroMtz10-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlejandroMtz10)
+
+</div>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - 🧑‍💻 I am a young man passionate about software development and competitive programming.  
 - 💼 Currently working on various development projects while enhancing my skills through coding competitions.
@@ -13,7 +25,6 @@
 **About me. | Sobre mí**
 - 🎓 **Name | Nombre:** Alejandro Martínez Rivera.
 - 💻 **Occupation | Ocupación:** Software engineer | Ingeniero de software.
-- 🌍 **Age | Edad:** 25 years old | 25 años. 
 - 🚀 **Interests | Intereses:** Software development, Competitive programming, Learning new technologies | Desarrollo de software, Programación competitiva, Aprendizaje de nuevas tecnologías.
 - I enjoy working on development projects and participating in competitive programming contests. You can find several repositories on my profile, and I hope you find my code helpful. 😄
 - Me gusta trabajar en proyectos de desarrollo y participar en concursos de programación competitiva. Puedes encontrar diversos repositorios en mi perfil que espero te sean de ayuda. 😄
