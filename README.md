@@ -1,10 +1,9 @@
 <div align="center">
   
-  # <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="35px" /> Hello, welcome to my profile! | ¡Hola, bienvenido a mi perfil! <br>
+  # <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="35px" /> I am Alejandro Martinez | Soy Alejandro Martínez! <br>
   
-  <img src="./recursos/aldev_banner_img.jpg" alt="aldev banner" width="100%"><br><br>
+  <img src="./recursos/banner.jpg" alt="aldev banner" width="100%"><br><br>
   
-  # I am Alejandro Martinez | Soy Alejandro Martínez! <br>
   ## Software engineer | Ingeniero de software <br>
   ### App Developer and Tech Solutions Provider | Creador de Apps y Soluciones Tecnológicas <br><br>
 
