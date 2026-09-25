@@ -13,6 +13,7 @@
 
 </div>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 🧑‍💻 I am a young man passionate about software development and competitive programming.  
 - 💼 Currently working on various development projects while enhancing my skills through coding competitions.
 
