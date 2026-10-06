@@ -39,13 +39,10 @@
 
 <div align="center">
 	<div href="https://github.com/AlejandroMtz10">
-		<img width="auto" height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejandroMtz10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+		<img width="610em" height="auto" src="https://github-stats-extended.vercel.app/api?username=AlejandroMtz10&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=react"/>
 	</div>
 	<div href="https://github.com/AlejandroMtz10">
-		<img width="610em" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroMtz10&layout=compact&langs_count=10&theme=algolia"/>
-	</div>
-	<div>
-	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroMtz10&theme=tokyo-night&layout=compact" alt="Contribution graph" />
+		<img width="610em" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs?username=AlejandroMtz10&langs_count=10&theme=react"/>
 	</div>
 </div>
 
