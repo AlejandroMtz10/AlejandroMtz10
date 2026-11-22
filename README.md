@@ -105,14 +105,14 @@
 	<img src="https://skillicons.dev/icons?i=ubuntu&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=npm&theme=light&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=pnpm&perline=14"/>
-	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/xampp.svg" width="47em" />
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/version-1.3/public/toolsLogos/xampp.svg" width="47em" />
 </div>
 <div align="left">
 	<h3>Low-Code & No-Code</h3>
-	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/power-apps.svg" width="50em"/>
-	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/power-automate.svg" width="50em"/>
-	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/power-bi.svg" width="50em"/>
-	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/toolsLogos/sharepoint.svg" width="50em"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/version-1.3/public/toolsLogos/power-apps.svg" width="50em"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/version-1.3/public/toolsLogos/power-automate.svg" width="50em"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/version-1.3/public/toolsLogos/power-bi.svg" width="50em"/>
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/version-1.3/public/toolsLogos/sharepoint.svg" width="50em"/>
 </div>
 
 ## Competitive programming. | Programación competitiva.
