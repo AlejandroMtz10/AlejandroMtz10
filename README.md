@@ -83,7 +83,7 @@
 	<img src="https://skillicons.dev/icons?i=dotnet&theme=light&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=unity&theme=light&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=arduino&perline=14"/>
-	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/main/public/technologiesLogos/json.svg" width="50em"/> 
+	<img src="https://github.com/AlejandroMtz10/AlejandroDev/blob/version-1.3/public/technologiesLogos/json.svg" width="50em"/> 
 	<img src="https://skillicons.dev/icons?i=postman&theme=light&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=vercel&perline=14"/>
 	<img src="https://skillicons.dev/icons?i=haskell&perline=14"/>
